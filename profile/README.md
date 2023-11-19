@@ -1,4 +1,3 @@
-# Cansat 2024 - Tecnoclub
 
 <p align="center">
     <a>
@@ -6,4 +5,9 @@
     </a>
 </p>
 
-[Website](https://tecnoclubcansat.github.io/)
+<h1 align="center">
+  Tecnoclub Team Cansat 2024 Competition Project
+</h1>
+ 
+ [Website](https://tecnoclubcansat.github.io/)
+
